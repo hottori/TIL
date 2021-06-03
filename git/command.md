@@ -4,7 +4,7 @@
 
 
 
-
+![Git - Git 기초](https://book.git-scm.com/book/en/v2/images/areas.png)
 
 ##### init
 
@@ -79,6 +79,18 @@ git push origin master
 ```
 
 
+
+##### status
+
+git의 현재 상태를 확인하는 명령어
+
+
+
++ 기본 명령어
+
+```
+git status
+```
 
 
 
